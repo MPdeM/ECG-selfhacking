@@ -1,1 +1,1 @@
-# ECG-selfhacking
+# EEG-selfhacking
